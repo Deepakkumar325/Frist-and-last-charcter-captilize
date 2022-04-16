@@ -1,5 +1,5 @@
-# Frist-and-last-charcter-captilize
-#frist and last charcter in python
+# Frist-and-last-charcter-capitalize
+#frist and last letter in python
 
 s=input("string")
 
